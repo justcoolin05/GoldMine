@@ -35,8 +35,8 @@ Follow these steps to set up the VectorShield application:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/vectorshield.git
-   cd vectorshield
+   git clone https://github.com/bayegaspard/GoldMine.git
+   cd GoldMine
    ```
 2. **Set Up a Virtual Environment:**
   ```bash
